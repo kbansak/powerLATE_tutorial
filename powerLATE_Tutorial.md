@@ -1,3 +1,7 @@
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# LATE Power Analysis Tutorial
+
 ------------------------------------------------------------------------
 
 This page provides a tutorial on conducting power analysis for the Local

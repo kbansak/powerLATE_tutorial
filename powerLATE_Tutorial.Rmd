@@ -9,6 +9,10 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# LATE Power Analysis Tutorial
+
 ***
 
 This page provides a tutorial on conducting power analysis for the Local Average Treatment Effect (LATE)---also known as the Complier Average Causal Effect (CACE)---and using the `powerLATE` package for that purpose. 
