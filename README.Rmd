@@ -21,9 +21,13 @@ This page provides a tutorial on conducting power analysis for the Local Average
 
 **Author:** [Kirk Bansak](https://www.kirkbansak.com/) (UC Berkeley)
 
-**Date:** May 6, 2024
+**Date:** May 7, 2024
 
 **Reference:** [Bansak, Kirk. "A generalized approach to power analysis for local average treatment effects." *Statistical Science* 35, no. 2 (2020).](https://doi.org/10.1214/19-STS732)
+
+**R Package:** [`powerLATE`](https://cran.r-project.org/web/packages/powerLATE/index.html)
+
+**Additional Information:** [`powerLATE` GitHub Repository](https://github.com/kbansak/powerLATE)
 
 ***
 
